@@ -30,3 +30,5 @@ logs:
 
 black:
 	black -l 86 $$(find * -name '*.py')
+
+Just a test
